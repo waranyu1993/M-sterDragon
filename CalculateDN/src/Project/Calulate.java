@@ -6,5 +6,6 @@ public class Calulate {
 	{
 		System.out.println("Dragon");
 		System.out.println("O___O");
+		System.out.println(".......................................");
 	}
 }
