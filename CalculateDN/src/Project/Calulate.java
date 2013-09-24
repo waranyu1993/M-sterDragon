@@ -4,6 +4,8 @@ public class Calulate {
 
 	public static void main(String[] args)
 	{
-		System.out.println("That's Dragon");
+		HelloWorld hw = new HelloWorld();
+		hw.Print();
+		System.out.println("\nThat's Dragon");
 	}
 }
