@@ -6,6 +6,6 @@ public class Calulate {
 	{
 		HelloWorld hw = new HelloWorld();
 		hw.Print();
-		System.out.println("\nThat's Dragon");
+		System.out.println("\nHow to pull.");
 	}
 }
