@@ -8,3 +8,4 @@ public class Calulate {
 		hw.Print();
 		System.out.println("\nHow to pull.");
 	}
+}
